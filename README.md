@@ -10,7 +10,7 @@ I am also a part-time student at CMU (MPM program). This is my third and last ye
 I am taking Telling Stories with Data class.
 
 # What I hope to learn:
-I have been exposed to different tools that help visualize data. I have used Tableau, Einstein Analytics and Crystal Reports, and I do recognize that all these tools are good with some pros and cons. However, the more I use different tools, the more I realize how important it is to find the most optimal and sometimes even simple way to inform the audience. I hope to learn in this class technique and tricks how to leverage whatever tool we have avaiable in order to make data speak.  
+I have been exposed to different tools that help visualize data. I have used Tableau, Einstein Analytics and Crystal Reports, and I do recognize that all these tools are good with some pros and cons. However, the more I use different tools, the more I realize how important it is to find the most optimal and sometimes even simple way to inform the audience. I hope to learn in this class technique and tricks how to leverage whatever tool we have available in order to make data speak.  
 
 # My portfolio: 
 Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. The portfolio will hold cool projects for this class. 
