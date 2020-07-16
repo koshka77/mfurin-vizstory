@@ -15,6 +15,9 @@ I have been exposed to different tools that help visualize data. I have used Tab
 # My portfolio: 
 Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. The portfolio will hold cool projects for this class. 
 
+# Assignment #2
+mfurin-vizstory/dataviz2.md
+
 # Assignment#2 Debt to GDP ratio: 
 https://data.oecd.org/chart/61Rq
 
