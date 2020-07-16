@@ -16,12 +16,4 @@ I have been exposed to different tools that help visualize data. I have used Tab
 Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. The portfolio will hold cool projects for this class. 
 
 # Assignment #2
-[Assignment](/dataviz2.md)
-
-# Assignment#2 Debt to GDP ratio: 
-https://data.oecd.org/chart/61Rq
-
-# 3
-https://public.flourish.studio/visualisation/3191652/
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/3191652" data-url="https://flo.uri.sh/visualisation/3191652/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Assignment #2](/dataviz2.md)
