@@ -15,4 +15,5 @@ I have been exposed to different tools that help visualize data. I have used Tab
 # My portfolio: 
 Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. The portfolio will hold cool projects for this class. 
 
-# <iframe src="https://data.oecd.org/chart/61Rq" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Rq" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+# https://data.oecd.org/chart/61Rq
+https://data.oecd.org/chart/61Rq
