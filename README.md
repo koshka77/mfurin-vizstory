@@ -17,3 +17,8 @@ Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. T
 
 # Assignment #2
 [Assignment #2](/dataviz2.md)
+
+
+# Assignment #3
+[Assignment #3](/dataviz3.md)
+
