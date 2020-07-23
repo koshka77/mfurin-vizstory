@@ -12,14 +12,18 @@ The name of the chart: "Total number of COVID-19 tests per confirmed case".
 
 The bar chart that I chose for my assignments 3 & 4 is an interactive bar chart, in which each bar represents a country with a number of tests per a confirmed case.   
 Once I found and looked at this visualization, I really liked it. Personally, I like bar charts for their simplicity. This particular chart falls under the category of data-driven/exploratory because it is interactive, it shows trends and focuses on real, existing data. 
+
 Overall, the visualization is interactive, informative and emotive. As it says in the book ‘Good Charts’, “exploration lends itself to interactivity - allowing a manger to adjust parameters, inject data sources, and continually visualize” (Berinato, S., 63). 
 
 # My recommendations: 
 
 However, there were a few things that could be improved. Even though I like the original visualization, a few things were missing or could be enhanced. 
 Based on the feedback that I received from my colleagues and my own inclination to do it as well, I grouped countries by region. I think it improved the focus on the critical idea of how regions compare to each other.  
+
 Also, I removed dates at the end of the bar that eventually helps increase a focus on the number of tests and countries, but not dates. In my opinion, there is no need to put the exact dates. This information may be displayed in the headline by saying that data is effective as of the past week. That is what I ended up doing. 
+
 One more thing that really helps with distinguishing countries is adding country flags to each bar. Sitting at the right end of the bar next to values help audience track change of a number of tests per each country as the animation goes. 
+
 As one of my colleagues mentioned, adding totals would also improve the visualization. I was also wondering if I needed to add them. Once I heard the feedback from him, I thought to myself that it does resonate with my initial thought as well. Adding totals at the bottom of the bar chart helps keep track of tests performed for selected countries.
   
 # Wireframes
