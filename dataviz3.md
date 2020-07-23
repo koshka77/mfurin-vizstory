@@ -18,10 +18,10 @@ Overall, the visualization is interactive, informative and emotive. As it says i
 
 # My recommendations: 
 
-However, there were a few things that could be improved. Even though I like the original visualization, a few things were missing or could be enhanced. 
+However, there are a few things that could be improved. Even though I like the original visualization, a few things are missing or could be enhanced. 
 Based on the feedback that I received from my colleagues and my own inclination to do it as well, I grouped countries by region. I think it improved the focus on the critical idea of how regions compare to each other.  
 
-Also, I removed dates at the end of the bar that eventually helps increase a focus on the number of tests and countries, but not dates. In my opinion, there is no need to put the exact dates. This information may be displayed in the headline by saying that data is effective as of the past week. That is what I ended up doing. 
+Also, I removed dates at the end of the bar that eventually helps increase a focus on the number of tests and countries, but not dates. In my opinion, there is no need to put the exact dates. The bar chart is interactive and shows the last day when tests were conducted.  
 
 One more thing that really helps with distinguishing countries is adding country flags to each bar. Sitting at the right end of the bar next to values help audience track change of a number of tests per each country as the animation goes. 
 
@@ -31,10 +31,10 @@ As one of my colleagues mentioned, adding totals would also improve the visualiz
 
 As I was working on wireframes, I tried to work on two types of visualization – creating sets of different bar charts by regions and sketching all bars together and breaking them down by regions with colors. I sent two sets of sketches to my colleagues and based on the feedback, I decided to use one set of bars coloring countries in accordance with their region belonging. In short, I decided to go with sketch #2.  
 
-![blah](sketch1a.jpg)
+![Sketch1](sketch1a.jpg)
 
 And that
-![blah](sketch1b.jpg)
+![Sketch2](sketch1b.jpg)
 
 
 # My Solution
