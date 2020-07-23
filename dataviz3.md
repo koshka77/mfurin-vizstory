@@ -39,7 +39,9 @@ And that
 
 # My Solution
 
-https://public.flourish.studio/visualisation/3251136/
+![FinalVisualization.JPG](FinalVisualization.JPG)
+
+Find the complete animation [here https://public.flourish.studio/visualisation/3251136/](https://public.flourish.studio/visualisation/3251136/)
 
 
 # Sources: 
