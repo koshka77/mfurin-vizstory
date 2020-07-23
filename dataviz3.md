@@ -1,9 +1,10 @@
 # The link to the screenshot of the visualization of my choice.
 [Total number of COVID-19 tests per confirmed case](https://ourworldindata.org/grapher/covid-tests-per-case-exemplars?time=2020-07-22&country=AUS~CUB~DNK~FJI~GRC~HUN~India%2C%20people%20tested~LVA~LTU~LUX~MYS~MLT~MMR~NZL~RWA~SVK~KOR~TWN~THA~ARE~URY)
 
-# bunch 
-If you want to embed images, this is how you do it:
-![blah](sketch1a.jpg)
+# wireframing a solution 
+For this step, I used a whiteboard that I borrowed from my son to do a couple of sketches to visualize my new bar chart.
+
+![blah](sketch1a.jpg )
 
 And that
 ![blah](sketch1b.jpg)
