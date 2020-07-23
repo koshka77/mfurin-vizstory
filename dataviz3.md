@@ -2,7 +2,10 @@
 [Total number of COVID-19 tests per confirmed case](https://ourworldindata.org/grapher/covid-tests-per-case-exemplars?time=2020-07-22&country=AUS~CUB~DNK~FJI~GRC~HUN~India%2C%20people%20tested~LVA~LTU~LUX~MYS~MLT~MMR~NZL~RWA~SVK~KOR~TWN~THA~ARE~URY)
 
 # bunch 
+If you want to embed images, this is how you do it:
 ![blah](sketch1.jpg)
+
+And that
 ![blah](sketch2.jpg)
 
 # Sources: 
