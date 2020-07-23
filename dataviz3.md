@@ -2,8 +2,8 @@
 
 The visualization that I chose to improve and critique came from Our World in Data. I decided to look at a total number of Covid-19 tests per confirmed case. Right now all COVID-19 graphs and charts seem to appear in media every day. Coronavirus seems to be a rather hot topic being discussed all over the world. Everyone would like to see new trends and new stats. 
 
-The name of the chart: "Total number of COVID-19 tests per confirmed case".
- https://ourworldindata.org/grapher/covid-tests-per-case-exemplars?time=2020-07-22&country=AUS~CUB~DNK~FJI~GRC~HUN~India%2C%20people%20tested~LVA~LTU~LUX~MYS~MLT~MMR~NZL~RWA~SVK~KOR~TWN~THA~ARE~URY
+The name of the chart: ["Total number of COVID-19 tests per confirmed case".](
+ https://ourworldindata.org/grapher/covid-tests-per-case-exemplars?time=2020-07-22&country=AUS~CUB~DNK~FJI~GRC~HUN~India%2C%20people%20tested~LVA~LTU~LUX~MYS~MLT~MMR~NZL~RWA~SVK~KOR~TWN~THA~ARE~URY)
  
  ![Total number of COVID-19 tests per confirmed case](Snapshot of the original data.JPG)
  
@@ -11,6 +11,7 @@ The name of the chart: "Total number of COVID-19 tests per confirmed case".
 # What I think of the original bar chart: 
 
 The bar chart that I chose for my assignments 3 & 4 is an interactive bar chart, in which each bar represents a country with a number of tests per a confirmed case.   
+
 Once I found and looked at this visualization, I really liked it. Personally, I like bar charts for their simplicity. This particular chart falls under the category of data-driven/exploratory because it is interactive, it shows trends and focuses on real, existing data. 
 
 Overall, the visualization is interactive, informative and emotive. As it says in the book ‘Good Charts’, “exploration lends itself to interactivity - allowing a manger to adjust parameters, inject data sources, and continually visualize” (Berinato, S., 63). 
