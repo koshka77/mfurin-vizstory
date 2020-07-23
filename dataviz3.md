@@ -3,10 +3,10 @@
 
 # bunch 
 If you want to embed images, this is how you do it:
-![blah](sketch1.jpg)
+![blah](sketch1a.jpg)
 
 And that
-![blah](sketch2.jpg)
+![blah](sketch1b.jpg)
 
 # Sources: 
 * Our World in Data. How experts use data to identify emerging Covid-19 success stories. June 30 2020. https://ourworldindata.org/identify-covid-exemplars Last accessed 22 July 2020. 
