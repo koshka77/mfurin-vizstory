@@ -5,7 +5,7 @@ The visualization that I chose to improve and critique came from Our World in Da
 The name of the chart: ["Total number of COVID-19 tests per confirmed case".](
  https://ourworldindata.org/grapher/covid-tests-per-case-exemplars?time=2020-07-22&country=AUS~CUB~DNK~FJI~GRC~HUN~India%2C%20people%20tested~LVA~LTU~LUX~MYS~MLT~MMR~NZL~RWA~SVK~KOR~TWN~THA~ARE~URY)
  
-![Total number of COVID-19 tests per confirmed case](Snapshot of the original data.JPG)
+![Total number of COVID-19 tests per confirmed case]("Snapshot of the original data.JPG")
  
  
 # What I think of the original bar chart: 
