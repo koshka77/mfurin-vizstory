@@ -43,7 +43,7 @@ We can all do at least three things:
 
 # Sketches/Wireframes and Storyboard 
 
-![1](/wireframe.jpg)
+![1](/p1.jpg)
 
 # User research protocol.
 I reached to my colleagues from advancement analytics and prospect management teams at CMU and my old friend from 3M. All people who I interviewed have an experience working with data and visualization tools: they work in Tableau, Einstein analytics or other tools. 
@@ -87,12 +87,16 @@ As for suggestions, people recommended to explore other subtopics to answer ques
 ## My preview on my initial revised project based on the feedback
 Whatever I have reworked so far is preliminary. I will add more for the Part 2 and the presentation itself.  
 
-![2](/wireframe2.jpg)
-
+![2](/p2.jpg)
+![3](/p3.jpg)
+![4](/p4.jpg)
 
 # Moodboard
 CO2 Emissions and Rising Global Temperature. We feel it literally every day.  
-     
+
+![5](/p5.JPG)
+![6](/p6.JPG)
+
      
 # Short description of how I'll be completing the final project.
 I am going to use Flourish to create my visualization charts. The datasets that I found (below is the link, under Documentation of data sources), I will make a scatter plot to show the change of temperature from 1880 to 2020 and the human-produced carbon dioxide from 1980 to 2018. 
@@ -113,10 +117,4 @@ https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. Accessed 27 J
 
 # Main portfolio
 [Return to main portfolio page](README.md)
-
-
-
-![3]("/too hot sign.png")
-
-![4]("/persona.jpg")
 
