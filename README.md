@@ -22,3 +22,5 @@ Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. T
 # Assignment #3
 [Assignment #3](/dataviz3.md)
 
+# Final Project
+[Part I](/final_p1.md)
