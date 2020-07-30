@@ -4,7 +4,7 @@ Rising Global Temperature and Increasing Carbon Dioxide Emission: is there a lin
 # Project owner
 Muza Furin-Carraux 
 
-# A high-level introduction and the goal of the project
+## A high-level introduction and the goal of the project
 I am interested in the global warming problem and it effect on humans. Studies show the correlation between rising levels of carbon dioxide and rising global temperature.  
 The goal of the project is to portray how global temperature changes over time (recorded from 1885 to 2020) across continents and what role carbon dioxide plays in rising temperatures.
 
@@ -14,16 +14,18 @@ Anyone who is looking for information about rising global temperature.
 ## Story Arc
 I hope my story will be persuasive, and increase empathy, understanding, and recall. 
 
-# Setup
+## Setup
 Global temperatures are on the rise. It has been consistently rising at a faster rate in the past 20 years!
 I plan to show two charts: a scatter plot that demonstrates the change of temperature from 1880 to 2020 and a graph that shows faster growth of temperature in the past 20 years. 
 
-# Conflict 
+## Conflict 
 Human-produced activities contribute significantly to this problem. In fact, carbon dioxide emission is mostly responsible for rising global temperature (See Reference: “Warming due to carbon dioxide jumped by half in 25 years”). 
 The chart with a trend line portrays how the human-produced carbon dioxide rises from 1980 to 2018. 
-# Problem
+
+## Problem
 We continue contributing to the problem by eating more meat, using fossil fuels, and nonrenewable energy etc.  
-# Resolution
+
+## Resolution
 We can all contribute to reducing carbon dioxide. “Huge!”
 
 ## Anticipated Call to Action 
