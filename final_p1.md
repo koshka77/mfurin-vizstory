@@ -43,6 +43,8 @@ We can all do at least three things:
 
 # Sketches/Wireframes and Storyboard 
 
+![1](/wireframe.jpg)
+
 # User research protocol.
 I reached to my colleagues from advancement analytics and prospect management teams at CMU and my old friend from 3M. All people who I interviewed have an experience working with data and visualization tools: they work in Tableau, Einstein analytics or other tools. 
 My hope is to find out through their feedback if my visualization is clear, informative, and data-driven as well as to get their suggestions how to improve it. 
@@ -95,12 +97,16 @@ As for suggestions, people recommended to explore other subtopics to answer ques
   -	Add more facts to support the idea about correlation between rising temperature and CO2 emission. 
   -	Incorporate the chart with CO2 emission
 2.	Remove maps because they are confusing. 
-My preview on my initial revised project based on the feedback: 
+
+## My preview on my initial revised project based on the feedback
 Whatever I have reworked so far is preliminary. I will add more for the Part 2 and the presentation itself.  
-  
+
+![2](/wireframe2.jpg)
+
 
 # Moodboard
 CO2 Emissions and Rising Global Temperature. We feel it literally every day.  
+     
      
 # Short description of how I'll be completing the final project.
 I am going to use Flourish to create my visualization charts. The datasets that I found (below is the link, under Documentation of data sources), I will make a scatter plot to show the change of temperature from 1880 to 2020 and the human-produced carbon dioxide from 1980 to 2018. 
@@ -123,8 +129,8 @@ https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. Accessed 27 J
 [Return to main portfolio page](README.md)
 
 
-![1](/wireframe.jpg)
-
-![2](/wireframe2.jpg)
 
 ![3]("/too hot sign.png")
+
+![4]("/persona.jpg")
+
