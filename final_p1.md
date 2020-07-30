@@ -124,3 +124,7 @@ https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. Accessed 27 J
 
 
 ![1](/wireframe.jpg)
+
+![2](/wireframe2.jpg)
+
+![3]("/too hot sign.png")
