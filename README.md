@@ -24,4 +24,5 @@ Here is the link to my portfolio: https://koshka77.github.io/mfurin-vizstory/. T
 
 # Final Project
 [Part I](/final_p1.md)
+
 [Part II](/final_p2.md)
