@@ -47,8 +47,8 @@ I used these data sources to find information about gloabl warming and carbon di
 
 
 The sources below are datasets that I used to create visualization. 
-1. Dataset: https://www.ncdc.noaa.gov/cag/global/time-series
-2. Dataset: https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
+1. Dataset 1: https://www.ncdc.noaa.gov/cag/global/time-series
+2. Dataset 2: https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
 
 
 ### Photos:
