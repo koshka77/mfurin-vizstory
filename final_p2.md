@@ -38,14 +38,13 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 ### Sources:
 I used these data sources to find information about gloabl warming and carbon dioxide emssions. 
 
-1. Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great. Accessed 26 July, 2020.
-2. Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov. February, 2020. https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide. Accessed 27 July, 2020.
-3. Warming due to carbon dioxide jumped by half in 25 years. May, 2016. NOAA. https://www.noaa.gov/news/warming-due-to-carbon-dioxide-jumped-by-half-in-25-years#:~:text=Human%20activity%20has%20increased%20the,10th%20Annual%20Greenhouse%20Gas%20Index. Accessed 27 July, 2020.
-5. Sources of Greenhouse Gas Emissions. EPA. https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. Accessed 27 July, 2020.
-6. Yaniz, L. 5 Ways our government can confront climate change. AIDA. https://aida-americas.org/en/blog/5-ways-our-governments-can-confront-climate-change. Accessed 25 July, 2020.
-7. Denchak, M. How You Can Stop Global Warming. July 17, 2017. https://www.nrdc.org/stories/how-you-can-stop-global-warming Accessed 27, July 2020.
-8. How you can stop Global Warming. https://www.nrdc.org/stories/how-you-can-stop-global-warming
-9. How to Call Congress. NRDC. https://www.nrdc.org/stories/how-call-congress
+1. Our World in Data. CO2 and Greenhouse Gas Emissions. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions 
+2. Climate Chnage: Global Tempertaure. Climate.gov  https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature 
+3. Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great
+4. Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov.  https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide.5. How you can stop Global Warming. https://www.nrdc.org/stories/how-you-can-stop-global-warming 
+5. How you can stop Global Warming. https://www.nrdc.org/stories/how-you-can-stop-global-warming 
+6.  How to Call Congress. NRDC. https://www.nrdc.org/stories/how-call-congress 
+
 
 The sources below are datasets that I used to create visualization. 
 1. Dataset: https://www.ncdc.noaa.gov/cag/global/time-series
