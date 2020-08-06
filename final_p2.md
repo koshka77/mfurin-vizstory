@@ -28,8 +28,9 @@ Based on the feedback however I had to remove them from my revised work. Peopleâ
 
 ### My story in Shorthand
 
-Based on my revised wireframe, I made my visualizations. I planned to use flourish to make my graphs and then shorthand to create a story. Even though I know how to use Tableau, I decided to use Flourish for two reasons: I already have knowledge of Tableau (I worked with a tool for two years) and Flourish is just easier. 
+Based on my revised wireframe, I made my visualizations. I planned to use flourish to make my graphs and then shorthand to create a story. Even though I knew how to use Tableau, I decided to use Flourish for two reasons: I already have knowledge of Tableau (I worked with a tool for two years) and wanted to explore teh new tool and Flourish is just easier. 
+
 After I created my graphs in flourish, I was ready to implement my story in Shorthand. While working on chapters in Shorthand, I realized that I had to insert 
 -	a few fact cards about rising global temperature and carbon dioxide emissions as I planned in my revised wireframes. 
--	I added a few pictures during transitions form one subtopic to another to make the visualization smoother
--	I used differ background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
+-	a few pictures during transitions from one subtopic to another to make the visualization smoother.
+- different background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
