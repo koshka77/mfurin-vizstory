@@ -37,5 +37,6 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 
 ### Links 
 •	Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. 
+
 •	Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet on Canvas.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.
 
