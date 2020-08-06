@@ -35,8 +35,29 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 -	a few pictures during transitions from one subtopic to another to make the visualization smoother.
 - different background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
 
+### Sources:
+
+1. Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great. Accessed 26 July, 2020.
+2. Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov. February, 2020. https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide. Accessed 27 July, 2020.
+3. Temperature Change and Carbon Dioxide Change. https://www.ncdc.noaa.gov/global-warming/temperature-change
+4. Dataset: https://www.ncdc.noaa.gov/cag/global/time-series
+5. Dataset: https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
+6. Warming due to carbon dioxide jumped by half in 25 years. May, 2016. NOAA. https://www.noaa.gov/news/warming-due-to-carbon-dioxide-jumped-by-half-in-25-years#:~:text=Human%20activity%20has%20increased%20the,10th%20Annual%20Greenhouse%20Gas%20Index. Accessed 27 July, 2020.
+7. Sources of Greenhouse Gas Emissions. EPA. https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. Accessed 27 July, 2020.
+8. Yaniz, L. 5 Ways our government can confront climate change. AIDA. https://aida-americas.org/en/blog/5-ways-our-governments-can-confront-climate-change. Accessed 25 July, 2020.
+9. Denchak, M. How You Can Stop Global Warming. July 17, 2017. https://www.nrdc.org/stories/how-you-can-stop-global-warming Accessed 27, July 2020.
+
+
+### Photos:
+
+
+1. Exploring Climate Change & Global Warminghttps://www.azocleantech.com/article.aspx?ArticleID=898
+2. FirstEnergy Prepared for Summer Heat, Offers Assistance to Customers https://www.firstenergycorp.com/newsroom/featured_stories/summer-heat.html 
+3. Atmospheric CO2 Levels Are Now At The Highest Level In The Past 3 Million Years. Great Lakes Ledger. 
+https://greatlakesledger.com/2019/04/06/atmospheric-co2-levels-are-now-at-the-highest-level-in-the-past-3-million-years/
+
+
 ### Links 
 •	Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. 
 
-•	Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet on Canvas.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.
 
