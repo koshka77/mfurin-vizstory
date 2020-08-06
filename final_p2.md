@@ -34,3 +34,8 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 -	a few fact cards about rising global temperature and carbon dioxide emissions as I planned in my revised wireframes. 
 -	a few pictures during transitions from one subtopic to another to make the visualization smoother.
 - different background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
+
+### Links 
+•	Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. 
+•	Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet on Canvas.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.
+
