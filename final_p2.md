@@ -20,7 +20,7 @@ After I reached out to my colleagues and friends, I reconsidered my audience. Th
 
 ### The project introduction and outline
 
-I read American Scientific journal monthly. I noticed a lot of topics related to global warming. Lots of discussion related to global warming and emission of CO2 really pushed my interest in researching this topic.
+I regularly read American Scientific journal. I noticed a lot of topics related to global warming. Lots of discussion related to global warming and emission of CO2 really pushed my interest in researching this topic.
 
 Personally, I feel the effects of global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years, summers have become hotter and winters have become warmer. 
 
