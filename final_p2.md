@@ -1,6 +1,6 @@
 ## Part II
 ### Design and user research (Part I)
-Sketches and storyboards, a moodboard, user research protocol and findings, revised design / wireframes based off of user research and a summary of findings
+Sketches, storyboards, a moodboard, user research protocol and findings, revised design/wireframes based on feedback as well as summary of findings
 have been provided in [Link to Part I](final_p1.md)
 
 ### Final data story
