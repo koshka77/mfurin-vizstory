@@ -1,6 +1,6 @@
 ## Part II
 ### Design and user research (Part I)
-Sketches, storyboards, a moodboard, user research protocol and findings, revised design/wireframes based on feedback as well as summary of findings and  explanation of how I plan on using my data have been provided in [Part I](final_p1.md)
+The project introduction and outline, a project structure that outlines the major elements of your story, sketches (storyboards, a moodboard), user research protocol and findings, revised design/wireframes based on feedback as well as summary of findings and  explanation of how I plan on using my data have been provided in [Part I](final_p1.md)
 
 ### Final data story
 
@@ -15,9 +15,11 @@ After I reached out to my colleagues and friends, I reconsidered my audience. Th
 
 ### An introduction and outline
 
-I typically read American Scientific journal monthly. I noticed a lot of topics related to global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years summer have become hotter and winter have become warmer. 
+I read American Scientific journal monthly. I noticed a lot of topics related to global warming. Lots of discussion related to global warming and emission of CO2 really pushed my interest in researching this topic.
 
-I wanted to investigate this topic and use it for my digital story. I was wondering if I could find enough data on this topic which would be publicly accessible. To my surprise, I found a few websites with data.
+Personally, I feel the effects of global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years, summers have become hotter and winters have become warmer. 
+
+I wanted to investigate this topic and use it for my digital story. I was wondering if I could find enough data on this topic which would be publicly accessible. To my surprise, I found a few websites with data. I am excited to present it. 
 
 ### Drawing wireframe with crayons/pens
 
