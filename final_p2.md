@@ -36,7 +36,7 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 - different background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
 
 ### Sources:
-I used these data sources to find information about global warming and carbon dioxide emssions. 
+I used these data sources to find information about global warming and carbon dioxide emissions. 
 
 1. Our World in Data. CO2 and Greenhouse Gas Emissions. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions 
 2. Climate Chnage: Global Tempertaure. Climate.gov  https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature 
