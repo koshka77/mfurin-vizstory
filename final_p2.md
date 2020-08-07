@@ -1,7 +1,7 @@
 ## Part II
 ### Design and user research (Part I)
 Sketches and storyboards, a moodboard, user research protocol and findings, revised design / wireframes based off of user research and a summary of findings
-[Link to Part I](final_p1.md)
+have been provided in [Link to Part I](final_p1.md)
 
 ### Final data story
 
@@ -16,14 +16,16 @@ My original target audiences were people who were mostly interested in global wa
 
 I typically read American Scientific journal monthly. I noticed a lot of topics related to global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years summer have become hotter and winter have become warmer. 
 
-I wanted to investigate this topic and use it for my digital story. I was wondering if I could fid enough data on this topic which would be publicly accessible. To my surprise I found a few website with data.
+I wanted to investigate this topic and use it for my digital story. I was wondering if I could find enough data on this topic which would be publicly accessible. To my surprise, I found a few websites with data.
 
 ### Drawing wireframe with crayons/pens
 
 I really appreciate this exercise. The fact that I spent some time drawing a few pictures with my son’s crayons and pens actually made me think thoroughly through the process holistically. I was planning to include fact sheets, first graph, second graph and mood boards to better tell the story.  
+
 ### Getting Feedback from others
 
 This actually helped me see critically maps that I initially designed. I truly believed that they would help tell the story, but people found them quite confusing and not meaningful. Even though I am not a great artist, I liked my sketches of maps. 
+
 Based on the feedback however I had to remove them from my revised work. People’s feedback helped me focus on what is central to my story and what needs to be added in order to make story more complete. 
 
 ### My story in Shorthand
@@ -34,6 +36,8 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 -	a few fact cards about rising global temperature and carbon dioxide emissions as I planned in my revised wireframes. 
 -	a few background pictures during transitions from one subtopic to another to make the visualization smoother.
 - different background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
+
+I have also included CO2 emissions chart by country for informative purposes. 
 
 ### Sources:
 I used these data sources to find information about global warming and carbon dioxide emissions. 
