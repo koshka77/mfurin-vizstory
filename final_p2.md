@@ -9,12 +9,14 @@ My original target audiences were people who were mostly interested in global wa
 
 ### Summary of my work
 
-Link to shorthand
-Link to GitHub repository
+Link to shorthand https://preview.shorthand.com/OmtbX0wgD7gBBrOd
+Link to GitHub repository 
 
 ### An introduction and outline
 
-It was not straightforward me to come up with the theme. Even though there are plenty of pictures on global warming and carbon dioxide emissions, it was hard to find the best pictures to deliver the succinct message. Finally I looked at a few articles whose contents I liked and decided to use their pictures. 
+I typically read American Scientific journal, and I noticed a lot of topics related to global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years summer have become hotter and winter have become warmer. 
+I wanted to investigate this topic and use it for my digital story. 
+
 
 ### Drawing wireframe with crayons/pens
 
@@ -34,7 +36,7 @@ After I created my graphs in flourish, I was ready to implement my story in Shor
 - different background pictures to help the reader navigate through the story to visually absorb the main idea before the reader start reading the text and looks the graph. 
 
 ### Sources:
-I used these data sources to find information about gloabl warming and carbon dioxide emssions. 
+I used these data sources to find information about global warming and carbon dioxide emssions. 
 
 1. Our World in Data. CO2 and Greenhouse Gas Emissions. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions 
 2. Climate Chnage: Global Tempertaure. Climate.gov  https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature 
@@ -45,6 +47,7 @@ I used these data sources to find information about gloabl warming and carbon di
 
 
 The sources below are datasets that I used to create visualization. 
+
 1. Dataset 1: https://www.ncdc.noaa.gov/cag/global/time-series
 2. Dataset 2: https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
 
