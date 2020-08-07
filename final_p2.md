@@ -18,7 +18,7 @@ After I reached out to my colleagues and friends, I reconsidered my audience. Th
 - [My story in Shorthand](https://preview.shorthand.com/OmtbX0wgD7gBBrOd)
 - [Link to GitHub repository](https://github.com/koshka77/mfurin-vizstory)
 
-### An introduction and outline
+### The project introduction and outline
 
 I read American Scientific journal monthly. I noticed a lot of topics related to global warming. Lots of discussion related to global warming and emission of CO2 really pushed my interest in researching this topic.
 
