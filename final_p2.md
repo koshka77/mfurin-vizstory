@@ -9,7 +9,7 @@ My original target audiences were people who were mostly interested in global wa
 
 ### Summary of my work
 
-Link to shorthand https://preview.shorthand.com/OmtbX0wgD7gBBrOd
+My story in Shorthand https://preview.shorthand.com/OmtbX0wgD7gBBrOd
 Link to GitHub repository 
 
 ### An introduction and outline
