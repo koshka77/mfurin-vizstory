@@ -1,9 +1,9 @@
 ## Part II
 
-### The project introduction and outline, a project structure that outlines the major elements of my story
-### Sketches (storyboards, a moodboard) and revised design/wireframes based on feedback of my colleagues and friends 
-### User research protocol and findings as well as summary of findings and  explanation of how I plan on using my data
-### All the above can be found in [Part I](final_p1.md)
+### The project introduction and outline, a project structure that outlines the major elements of my story [Part I](final_p1.md)
+### Sketches (storyboards, a moodboard) and revised design/wireframes based on feedback of my colleagues and friends [Part I](final_p1.md)
+### User research protocol and findings as well as summary of findings and  explanation of how I plan on using my data [Part I](final_p1.md)
+[Part I](final_p1.md)
 
 ### Final data story
 
