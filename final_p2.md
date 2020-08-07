@@ -9,7 +9,7 @@ My original target audiences were people who were mostly interested in global wa
 
 ### Summary of my work
 
-My story in Shorthand https://preview.shorthand.com/OmtbX0wgD7gBBrOd
+[My story in Shorthand](https://preview.shorthand.com/OmtbX0wgD7gBBrOd)
 Link to GitHub repository 
 
 ### An introduction and outline
@@ -48,8 +48,8 @@ I used these data sources to find information about global warming and carbon di
 
 The sources below are datasets that I used to create visualization. 
 
-1. Dataset 1: https://www.ncdc.noaa.gov/cag/global/time-series
-2. Dataset 2: https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
+1. [Dataset 1](https://www.ncdc.noaa.gov/cag/global/time-series)
+2. [Dataset 2](https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets)
 
 
 ### Photos:
