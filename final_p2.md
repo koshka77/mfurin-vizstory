@@ -1,4 +1,4 @@
-## Part II
+## Part II: The final deliverable
 
 ### The project introduction and outline, a project structure that outlines the major elements of my story can be found in [Part I](final_p1.md)
 ### Sketches (storyboards, a moodboard) and revised design/wireframes based on feedback of my colleagues and friends can be found in [Part I](final_p1.md)
