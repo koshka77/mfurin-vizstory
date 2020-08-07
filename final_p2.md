@@ -14,9 +14,9 @@ Link to GitHub repository
 
 ### An introduction and outline
 
-I typically read American Scientific journal, and I noticed a lot of topics related to global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years summer have become hotter and winter have become warmer. 
-I wanted to investigate this topic and use it for my digital story. 
+I typically read American Scientific journal monthly. I noticed a lot of topics related to global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years summer have become hotter and winter have become warmer. 
 
+I wanted to investigate this topic and use it for my digital story. I was wondering if I could fid enough data on this topic which would be publicly accessible. To my surprise I found a few website with data.
 
 ### Drawing wireframe with crayons/pens
 
