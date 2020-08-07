@@ -5,7 +5,7 @@
 ### User research protocol and findings as well as summary of findings and  explanation of how I plan on using my data can be found in [Part I](final_p1.md)
 
 
-### Final data story
+## Final data story
 
 ### The audience
 
