@@ -24,7 +24,7 @@ I regularly read American Scientific journal. I noticed a lot of topics related 
 
 Personally, I feel the effects of global warming. I remember that years ago there was always winter in Pittsburgh. In the recent years, summers have become hotter and winters have become warmer. 
 
-I wanted to investigate this topic and use it for my digital story. I was wondering if I could find enough data on this topic which would be publicly accessible. To my surprise, I found a few websites with data. I am excited to present it. 
+I wanted to investigate this topic and use it for my digital story. I was wondering if I could find enough data on this topic which would be publicly accessible. To my surprise, I found a few websites with data and discussions about rising global temperature. I am happy to present my final deliverable. 
 
 ### Drawing wireframe with crayons/pens
 
