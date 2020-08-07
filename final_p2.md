@@ -1,6 +1,6 @@
 ## Part II
 ### Design and user research (Part I)
-The project introduction and outline, a project structure that outlines the major elements of your story, sketches (storyboards, a moodboard), user research protocol and findings, revised design/wireframes based on feedback as well as summary of findings and  explanation of how I plan on using my data have been provided in [Part I](final_p1.md)
+The project introduction and outline, a project structure that outlines the major elements of your story, sketches (storyboards, a moodboard), user research protocol and findings, revised design/wireframes based on feedback of my colleagues and friends as well as summary of findings and  explanation of how I plan on using my data have been provided in [Part I](final_p1.md)
 
 ### Final data story
 
