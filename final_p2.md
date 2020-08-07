@@ -4,7 +4,9 @@ Sketches, storyboards, a moodboard, user research protocol and findings, revised
 
 ### Final data story
 
-My original target audiences were people who were mostly interested in global warming effect, such as scientists, government officials, professors and teachers, students and pupils. After I reached out to my colleagues and friends, I reconsidered my audience. They suggested me to broaden the audience and include almost everyone, because rising temperature actually affects everyone. 
+My original target audiences were people who were mostly interested in global warming effect, such as scientists, government officials, professors and teachers, students and pupils. 
+
+After I reached out to my colleagues and friends, I reconsidered my audience. They suggested me to broaden the audience and include almost everyone, because rising temperature actually affects everyone. 
 
 ### Summary of my work
 
