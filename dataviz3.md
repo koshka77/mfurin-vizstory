@@ -45,7 +45,7 @@ Find the complete animation here [https://public.flourish.studio/visualisation/3
 
 
 # Sources: 
-* [Our World in Data. How experts use data to identify emerging Covid-19 success stories. June 30 2020.](https://ourworldindata.org/identify-covid-exemplars). Last accessed 22 July 2020. 
+* [Our World in Data. How experts use data to identify emerging Covid-19 success stories. June 30 2020.](https://ourworldindata.org/identify-covid-exemplars) Last accessed 22 July 2020. 
 * Berinato, S. Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. 2016. 
 
 # Main portfolio
