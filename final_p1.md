@@ -5,7 +5,7 @@ Rising Global Temperature and Increasing Carbon Dioxide Emission: is there a lin
 Muza Furin-Carraux 
 
 ### A high-level introduction and the goal of the project
-I am interested in the global warming problem and it effect on humans. Studies show the correlation between rising levels of carbon dioxide and rising global temperature.  
+I am interested in the global warming problem and its effect on humans. Studies show the correlation between rising levels of carbon dioxide and rising global temperature.  
 The goal of the project is to portray how global temperature changes over time (recorded from 1885 to 2020) across continents and what role carbon dioxide plays in rising temperatures.
 
 ### Target Audience
@@ -30,7 +30,9 @@ We can all contribute to reducing carbon dioxide. “Huge!”
 
 ### Anticipated Call to Action 
 ### For individuals
+
 We can all do at least three things:
+
 -	Power home with renewable energy and/or drive fuel-efficient vehicles. 
 -	Reduce water waste because it takes a lot of energy to pump, heat, and treat your water. 
 -	Actually eat the food we buy, because it takes a lot of energy to produce food, especially meat. 
@@ -46,12 +48,14 @@ We can all do at least three things:
 ![1](/p1.jpg)
 
 ### User research protocol.
+
 I reached to my colleagues from advancement analytics and prospect management teams at CMU and my old friend from 3M. All people who I interviewed have an experience working with data and visualization tools: they work in Tableau, Einstein analytics or other tools. 
 My hope is to find out through their feedback if my visualization is clear, informative, and data-driven as well as to get their suggestions how to improve it. 
 The target audience is pretty much anyone who cares about global rising temperature and would like to make a positive impact by slowing down its anomaly. 
 However, the more targeted audience would be policy makers, government officials, scientists, students, teachers, and professors. 
 
 ### My interview script: 
+
 1.	What do you think this storyboard shows?  
 2.	Did you see this type of information before?
 3.	What population group might be interested to know about it?
@@ -73,18 +77,21 @@ However, the more targeted audience would be policy makers, government officials
 
 
 ### Findings from the interviews 
+
 Based on the feedback that I received from my colleagues and a friend, the storyboard has a clear message and they were able to identify the target audience is everyone in the world (because this topic does concern everybody). 
 Everybody did clearly understand the purpose of the wireframe and two of the interviewees saw this type of information before. 
 Two people found maps confusing and not helping to relay the message. 
 As for suggestions, people recommended to explore other subtopics to answer questions. One person recommended to explore CO2 trend and work on the correlation between rising temperature and CO2 level, and possibly show the causality.   
 
 ### My plan to use the feedback
+
 1.	Clarification on correlation between CO2 emission and rising global temperature 
   *	Add more facts to support the idea about correlation between rising temperature and CO2 emission. 
   *	Incorporate the chart with CO2 emission
 2.	Remove maps because they are confusing. 
 
 ### My preview on my initial revised project based on the feedback
+
 Whatever I have reworked so far is preliminary. I will add more for the Part 2 and the presentation itself.  
 
 ![2](/p2.jpg)
@@ -92,6 +99,7 @@ Whatever I have reworked so far is preliminary. I will add more for the Part 2 a
 ![4](/p4.jpg)
 
 # Moodboard
+
 CO2 Emissions and Rising Global Temperature. We feel it literally every day.  
 
 ![5](/p5.JPG)
@@ -99,10 +107,12 @@ CO2 Emissions and Rising Global Temperature. We feel it literally every day.
 
      
 ### Short description of how I'll be completing the final project.
+
 I am going to use Flourish to create my visualization charts. The datasets that I found (below is the link, under Documentation of data sources), I will make a scatter plot to show the change of temperature from 1880 to 2020 and the human-produced carbon dioxide from 1980 to 2018. 
 In order to tell the story of rising temperature around the globe from 1880 to 2020 and its possible contribution to the higher level of CO2, I will be using Shorthand. I have not explored the tool yet, but it looks like it has a good potential to tell a nice digital story.  
 
 ### Documentation of data sources:
+
 1.	Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great. Accessed 26 July, 2020. 
 2.	Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov. February, 2020. https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide. Accessed 27 July, 2020.
 3.	Temperature Change and Carbon Dioxide Change. https://www.ncdc.noaa.gov/global-warming/temperature-change 
