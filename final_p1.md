@@ -80,8 +80,8 @@ As for suggestions, people recommended to explore other subtopics to answer ques
 
 ### My plan to use the feedback
 1.	Clarification on correlation between CO2 emission and rising global temperature 
-  -	Add more facts to support the idea about correlation between rising temperature and CO2 emission. 
-  -	Incorporate the chart with CO2 emission
+  *	Add more facts to support the idea about correlation between rising temperature and CO2 emission. 
+  *	Incorporate the chart with CO2 emission
 2.	Remove maps because they are confusing. 
 
 ### My preview on my initial revised project based on the feedback
