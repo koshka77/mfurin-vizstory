@@ -5,9 +5,10 @@ https://data.oecd.org/chart/61Rq
 https://public.flourish.studio/visualisation/3192111/
 
 # Comparing countries governemt debt by year (part 3)
-https://public.flourish.studio/visualisation/3192053/
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3192053" data-url="https://flo.uri.sh/visualisation/3192053/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[The vizualizationa above can be accessed at https://public.flourish.studio/visualisation/3192053/](https://public.flourish.studio/visualisation/3192053/)
 
 #  Different methods of visualization
 
