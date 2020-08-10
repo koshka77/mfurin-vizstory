@@ -35,9 +35,9 @@ This actually helped me see critically maps that I initially designed. I truly b
 
 Based on the feedback however I had to remove them from my revised work. People’s feedback helped me focus on what is central to my story and what needs to be added in order to make story more complete. 
 
-### [My story in Shorthand](https://preview.shorthand.com/OmtbX0wgD7gBBrOd)
+### My story in Shorthand
 
-Based on my revised wireframe, I made my visualizations. I planned to use flourish to make my graphs and then shorthand to create a story. Even though I knew how to use Tableau, I decided to use Flourish for two reasons: I already have knowledge of Tableau (I worked with a tool for two years) and wanted to explore the new tool and Flourish is just easier. 
+Based on my revised wireframe, I made my visualizations. I planned to use [flourish](https://flourish.studio/) to make my graphs and then [shorthand](https://shorthand.com/) to create a story. Even though I knew how to use [Tableau](https://www.tableau.com/), I decided to use Flourish for two reasons: I already have knowledge of Tableau (I worked with a tool for two years) and wanted to explore the new tool and Flourish is just easier. 
 
 After I created my graphs in flourish, I was ready to implement my story in Shorthand. While working on chapters in Shorthand, I realized that I had to insert 
 -	a few fact cards about rising global temperature and carbon dioxide emissions as I planned in my revised wireframes. 
@@ -65,13 +65,10 @@ The sources below are datasets that I used to create visualization.
 
 ### Photos:
 
-
 1. Exploring Climate Change & Global Warminghttps://www.azocleantech.com/article.aspx?ArticleID=898
 2. FirstEnergy Prepared for Summer Heat, Offers Assistance to Customers https://www.firstenergycorp.com/newsroom/featured_stories/summer-heat.html 
 3. Atmospheric CO2 Levels Are Now At The Highest Level In The Past 3 Million Years. Great Lakes Ledger. 
 https://greatlakesledger.com/2019/04/06/atmospheric-co2-levels-are-now-at-the-highest-level-in-the-past-3-million-years/
-
-
 
 
 ## Main portfolio
