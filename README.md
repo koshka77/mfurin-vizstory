@@ -1,5 +1,5 @@
 # mfurin-vizstory
-My full name is [Muza Furin-Carraux](www.linkedin.com/in/muza-furin-carraux-phd-3182a89).
+My full name is [Muza Furin-Carraux](http://www.linkedin.com/in/muza-furin-carraux-phd-3182a89).
 
 # About me: 
 I am an employee at [CMU](https://www.cmu.edu/). I have been working for CMU for a few years in Advancement Analytics team. 
