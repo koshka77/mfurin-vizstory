@@ -49,12 +49,12 @@ I have also included CO2 emissions chart by country for informative purposes.
 ### Sources:
 I used these data sources to find information about global warming and carbon dioxide emissions. 
 
-1. Our World in Data. CO2 and Greenhouse Gas Emissions. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions 
-2. Climate Chnage: Global Tempertaure. Climate.gov  https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature 
-3. Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great
-4. Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov.  https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide.5. How you can stop Global Warming. https://www.nrdc.org/stories/how-you-can-stop-global-warming 
-5. How you can stop Global Warming. https://www.nrdc.org/stories/how-you-can-stop-global-warming 
-6. How to Call Congress. NRDC. https://www.nrdc.org/stories/how-call-congress 
+1. [Our World in Data. CO2 and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
+2. [Climate Chnage: Global Tempertaure. Climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature).
+3. [Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great).
+4. [Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide.5. How you can stop Global Warming. https://www.nrdc.org/stories/how-you-can-stop-global-warming).
+5. [How you can stop Global Warming](https://www.nrdc.org/stories/how-you-can-stop-global-warming).
+6. [How to Call Congress. NRDC](https://www.nrdc.org/stories/how-call-congress).
 
 
 The sources below are datasets that I used to create visualization. 
