@@ -1,14 +1,14 @@
 # Debt to GDP ratio (part 1): 
-https://data.oecd.org/chart/61Rq
+[General government debt https://data.oecd.org/chart/61Rq](https://data.oecd.org/chart/61Rq)
 
 # Government Debt by country (part 2)
-https://public.flourish.studio/visualisation/3192111/
+[Government debt by country https://public.flourish.studio/visualisation/3192111/](https://public.flourish.studio/visualisation/3192111/)
 
-# Comparing countries governemt debt by year (part 3)
+# Comparing countries governemt debts by year (part 3)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3192053" data-url="https://flo.uri.sh/visualisation/3192053/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[The vizualizationa above can be accessed at https://public.flourish.studio/visualisation/3192053/](https://public.flourish.studio/visualisation/3192053/)
+[The vizualizationa above can also be accessed at https://public.flourish.studio/visualisation/3192053/](https://public.flourish.studio/visualisation/3192053/)
 
 #  Different methods of visualization
 
