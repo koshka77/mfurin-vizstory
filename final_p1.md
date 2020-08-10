@@ -115,16 +115,16 @@ In order to tell the story of rising temperature around the globe from 1880 to 2
 
 ### Documentation of data sources:
 
-1.	Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great. Accessed 26 July, 2020. 
-2.	Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov. February, 2020. https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide. Accessed 27 July, 2020.
-3.	Temperature Change and Carbon Dioxide Change. https://www.ncdc.noaa.gov/global-warming/temperature-change 
-4.	Dataset: https://www.ncdc.noaa.gov/cag/global/time-series
-5.	Dataset: https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
-6.	Warming due to carbon dioxide jumped by half in 25 years. May, 2016.  NOAA. https://www.noaa.gov/news/warming-due-to-carbon-dioxide-jumped-by-half-in-25-years#:~:text=Human%20activity%20has%20increased%20the,10th%20Annual%20Greenhouse%20Gas%20Index. Accessed 27 July, 2020.  
-7.	Sources of Greenhouse Gas Emissions. EPA.
-https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. Accessed 27 July, 2020.
-8.	Yaniz, L. 5 Ways our government can confront climate change. AIDA. https://aida-americas.org/en/blog/5-ways-our-governments-can-confront-climate-change. Accessed 25 July, 2020. 
-9.	Denchak, M. How You Can Stop Global Warming. July 17, 2017. https://www.nrdc.org/stories/how-you-can-stop-global-warming Accessed 27, July 2020. 
+1.	[Lindsey, R. Dahlman L. Climate Change: Global Temperature. Climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature#:~:text=According%20to%20the%20NOAA%202019,more%20than%20twice%20as%20great). Accessed 26 July, 2020. 
+2.	[Lindsey, R. Climate Change: Atmospheric Carbon Dioxide. Climate.gov. February, 2020.](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide). Accessed 27 July, 2020.
+3.	[Temperature Change and Carbon Dioxide Change.](https://www.ncdc.noaa.gov/global-warming/temperature-change)
+4.	[Dataset Time Serie](https://www.ncdc.noaa.gov/cag/global/time-series)
+5.	[Dataset CO2](https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets)
+6.	[Warming due to carbon dioxide jumped by half in 25 years. May, 2016.  NOAA.](https://www.noaa.gov/news/warming-due-to-carbon-dioxide-jumped-by-half-in-25-years#:~:text=Human%20activity%20has%20increased%20the,10th%20Annual%20Greenhouse%20Gas%20Index). Accessed 27 July, 2020.  
+7.	[Sources of Greenhouse Gas Emissions. EPA.](
+https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions). Accessed 27 July, 2020.
+8.	[Yaniz, L. 5 Ways our government can confront climate change. AIDA.](https://aida-americas.org/en/blog/5-ways-our-governments-can-confront-climate-change). Accessed 25 July, 2020. 
+9.	[Denchak, M. How You Can Stop Global Warming. July 17, 2017.](https://www.nrdc.org/stories/how-you-can-stop-global-warming) Accessed 27, July 2020. 
 
 
 ## Main portfolio
