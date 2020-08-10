@@ -35,7 +35,7 @@ This actually helped me see critically maps that I initially designed. I truly b
 
 Based on the feedback however I had to remove them from my revised work. People’s feedback helped me focus on what is central to my story and what needs to be added in order to make story more complete. 
 
-### My story in Shorthand
+### [My story in Shorthand](https://preview.shorthand.com/OmtbX0wgD7gBBrOd)
 
 Based on my revised wireframe, I made my visualizations. I planned to use flourish to make my graphs and then shorthand to create a story. Even though I knew how to use Tableau, I decided to use Flourish for two reasons: I already have knowledge of Tableau (I worked with a tool for two years) and wanted to explore the new tool and Flourish is just easier. 
 
