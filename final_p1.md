@@ -41,11 +41,11 @@ We can all do at least three things:
 - Support agricultural producers because the meat production is a leading cause of greenhouse gas emissions.  
 - Promote green energy 
 
-###Sketches/Wireframes and Storyboard 
+### Sketches/Wireframes and Storyboard 
 
 ![1](/p1.jpg)
 
-###User research protocol.
+### User research protocol.
 I reached to my colleagues from advancement analytics and prospect management teams at CMU and my old friend from 3M. All people who I interviewed have an experience working with data and visualization tools: they work in Tableau, Einstein analytics or other tools. 
 My hope is to find out through their feedback if my visualization is clear, informative, and data-driven as well as to get their suggestions how to improve it. 
 The target audience is pretty much anyone who cares about global rising temperature and would like to make a positive impact by slowing down its anomaly. 
