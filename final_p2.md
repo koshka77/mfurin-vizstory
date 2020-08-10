@@ -65,10 +65,10 @@ The sources below are datasets that I used to create visualization.
 
 ### Photos:
 
-1. Exploring Climate Change & Global Warminghttps://www.azocleantech.com/article.aspx?ArticleID=898
-2. FirstEnergy Prepared for Summer Heat, Offers Assistance to Customers https://www.firstenergycorp.com/newsroom/featured_stories/summer-heat.html 
-3. Atmospheric CO2 Levels Are Now At The Highest Level In The Past 3 Million Years. Great Lakes Ledger. 
-https://greatlakesledger.com/2019/04/06/atmospheric-co2-levels-are-now-at-the-highest-level-in-the-past-3-million-years/
+1. [Exploring Climate Change & Global Warming](https://www.azocleantech.com/article.aspx?ArticleID=898)
+2. [FirstEnergy Prepared for Summer Heat, Offers Assistance to Customers](https://www.firstenergycorp.com/newsroom/featured_stories/summer-heat.html)
+3. [Atmospheric CO2 Levels Are Now At The Highest Level In The Past 3 Million Years. Great Lakes Ledger.](
+https://greatlakesledger.com/2019/04/06/atmospheric-co2-levels-are-now-at-the-highest-level-in-the-past-3-million-years/)
 
 
 ## Main portfolio
