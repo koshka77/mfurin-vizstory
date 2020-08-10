@@ -26,7 +26,7 @@ The chart with a trend line portrays how the human-produced carbon dioxide rises
 We continue contributing to the problem by eating more meat, using fossil fuels, and nonrenewable energy etc.  
 
 ### Resolution
-We can all contribute to reducing carbon dioxide. “Huge!”
+We can all contribute to reduction of carbon dioxide. “Huge!”
 
 ### Anticipated Call to Action 
 ### For individuals
@@ -39,6 +39,7 @@ We can all do at least three things:
 - And many others! 
 
 ### For the government
+
 - Protect and restore ecosystems (trees capture CO2).  
 - Support agricultural producers because the meat production is a leading cause of greenhouse gas emissions.  
 - Promote green energy 
@@ -49,7 +50,8 @@ We can all do at least three things:
 
 ### User research protocol.
 
-I reached to my colleagues from advancement analytics and prospect management teams at CMU and my old friend from 3M. All people who I interviewed have an experience working with data and visualization tools: they work in Tableau, Einstein analytics or other tools. 
+I reached out to my colleagues from advancement analytics and prospect management teams at CMU and my old friends from 3M. All people who I interviewed have an experience working with data and visualization tools: they work in Tableau, Einstein analytics or other tools. 
+
 My hope is to find out through their feedback if my visualization is clear, informative, and data-driven as well as to get their suggestions how to improve it. 
 The target audience is pretty much anyone who cares about global rising temperature and would like to make a positive impact by slowing down its anomaly. 
 However, the more targeted audience would be policy makers, government officials, scientists, students, teachers, and professors. 
